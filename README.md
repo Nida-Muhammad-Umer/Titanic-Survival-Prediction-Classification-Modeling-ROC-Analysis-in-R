@@ -88,12 +88,10 @@ Models were evaluated using:
 
 ## Repository Structure
 
-```
 Titanic.csv
 analysis.R
 README.md
 
-```
 
 ---
 
