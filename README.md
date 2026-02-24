@@ -89,12 +89,10 @@ Models were evaluated using:
 ## Repository Structure
 
 ```
-Titanic-Survival-Prediction/
-│
-├── Titanic.csv
-├── analysis.R
-├── ROC_Titanic_1200x800.png
-└── README.md
+Titanic.csv
+analysis.R
+README.md
+
 ```
 
 ---
