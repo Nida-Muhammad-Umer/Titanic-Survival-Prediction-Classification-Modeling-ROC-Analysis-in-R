@@ -30,7 +30,7 @@ The dataset contains passenger-level features:
 - **Survived** – Target variable (0/1)
 
 ### Data Preparation
-- Removed missing values using `na.omit()`
+- Removed missing values using na.omit()
 - 70/30 train-test split
 - Set seed for reproducibility
 
